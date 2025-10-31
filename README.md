@@ -51,12 +51,17 @@ Your privacy and control come first. ❤️
 
 ---
 
-## 📦 Installation
+## 📦 Installation - Binary
 
 1. Go to the [Releases](../../releases) page.  
 2. Download the latest **`FancyCursor.zip`** file.  
 3. Unzip it and move **`FancyCursor.app`** to your **Applications** folder.  
 4. Open it (using the steps above if macOS warns about the developer).  
+
+## 📦 Installation - Source
+
+1. Clone this repository in XCode
+2. CMD + R (Build & Run)
 
 Enjoy your new fancy cursor experience! 🖱️✨
 
