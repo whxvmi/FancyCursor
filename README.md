@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/edad8170-c492-462f-9ee5-f83b594fcfa7" /># ✨ FancyCursor for macOS
+✨ FancyCursor for macOS
 
 **FancyCursor** brings smooth, animated cursor effects to macOS — inspired by the legendary **Compiz cursor** from Linux.  
 It’s lightweight, customizable, and works seamlessly on modern macOS versions.
