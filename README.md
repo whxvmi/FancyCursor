@@ -61,3 +61,10 @@ Your privacy and control come first. ❤️
 Enjoy your new fancy cursor experience! 🖱️✨
 
 ---
+
+## 🎬 Demo
+
+See FancyCursor in action:
+
+https://github.com/user-attachments/assets/cd1ee0dc-0fc0-4343-8b23-51c3f6dc3168
+
