@@ -51,7 +51,7 @@ macOS will remember your choice after the first launch you won’t need to do th
 ## 📦 Installation - Binary
 
 1. Go to the [Releases](../../releases) page.  
-2. Download the latest **`FancyCursor.zip`** file.  
+2. Download the latest **`FancyCursor.app.zip`** file.  
 3. Unzip it and move **`FancyCursor.app`** to your **Applications** folder.  
 4. Open it (using the steps above if macOS warns about the developer).  
 
