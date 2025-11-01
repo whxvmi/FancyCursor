@@ -111,11 +111,11 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         overlayWindow?.updateFrameToScreens()
     }
 
-    // MARK: - Fare hareketi
+    // MARK: - Cursor Movement
     func handleMouseMove(_ location: CGPoint) {
         guard let screen = NSScreen.main else { return }
 
-        // CoreGraphics → Cocoa koordinat sistemine dönüştür
+        // CoreGraphics → Cocoa
         let flippedY = screen.frame.height - location.y
         let correctedLocation = CGPoint(x: location.x, y: flippedY)
 
